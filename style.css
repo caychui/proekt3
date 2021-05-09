@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    padding: 5px;
+    font-size: 50px;
+    text-align: center;
+}
+
+tr {
+    background-color: lightblue;
+}
+
+.first {
+    border-bottom:dashed 4px blueviolet;
+}
+
+td {
+    padding: 10px;
+    border-bottom:2px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 20px;
+    border-left: double blueviolet 10px;
+    border-right: double blueviolet 10px;
+}
